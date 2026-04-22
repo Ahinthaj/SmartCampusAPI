@@ -1,0 +1,8 @@
+com\example\smartcampus\resources\SensorRoomResource.class
+com\example\smartcampus\config\MyApplication.class
+com\example\smartcampus\resources\DiscoveryResource.class
+com\example\smartcampus\JakartaRestConfiguration.class
+com\example\smartcampus\model\Room.class
+com\example\smartcampus\resources\JakartaEE8Resource.class
+com\example\smartcampus\dao\RoomDAO.class
+com\example\smartcampus\dao\MockDatabase.class
